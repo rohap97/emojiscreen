@@ -1293,6 +1293,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt1409024/"
     },
     {
+        title: "Men in Black:International",
+        emojiImgs: "👨➡️🤵🏼🌐👽",
+        genres: ["action", "adventure","comedy"],
+        type: "movie",
+        year: 2019,
+        itemLink: "https://www.imdb.com/title/tt2283336/"
+    },
+    {
         title: "Merlin",
         emojiImgs: "🧙🤴👑⚔️🐉",
         genres: ["adventure", "drama", "fantasy "],
